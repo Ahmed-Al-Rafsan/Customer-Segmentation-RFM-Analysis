@@ -295,9 +295,9 @@ python python/05_cohort_analysis.py
 python python/06_clv_calculation.py
 ```
 
-**5. Load data into MySQL (optional)**
+**5. Load data into MySQL**
 ```bash
-python python/07_load_to_mysql.py
+python python/07_load_to_mysq.py
 ```
 Then run the SQL queries in `SQL/` via MySQL Workbench.
 
